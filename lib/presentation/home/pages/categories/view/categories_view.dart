@@ -13,7 +13,7 @@ class _SearchPageState extends State<SearchPage> {
   @override
   Widget build(BuildContext context) {
     return  Center(
-        child: Text(AppStrings.search.tr())
+        child: Text(AppStrings.categories.tr())
     );
   }
 }
