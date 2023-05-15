@@ -1,6 +1,17 @@
-# clean_architecture
+(https://github.com/AmiraMostafa628/ShopApp_With_Mvvm/assets/103458291/e49cf73d-04f4-44d7-a50d-cb2af8a19e09)
 
+## shopapp
 A new Flutter project.
+
+## Features
+- Full authentication with Api containing (Sign in, Sign up, logout). 
+- clean architecture with Mvvm.
+- Back end validation and error handling incase of wrong inputs or technical issue.
+- Adding or deleting products to your cart.
+- Adding or deleting products to your favorite list.
+- Searching for any product.
+- easy Localization
+- Beautiful UI using drawer.
 
 ## Getting Started
 
