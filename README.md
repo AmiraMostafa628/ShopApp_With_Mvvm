@@ -1,4 +1,4 @@
-(https://github.com/AmiraMostafa628/ShopApp_With_Mvvm/assets/103458291/e49cf73d-04f4-44d7-a50d-cb2af8a19e09)
+<img src=https://github.com/AmiraMostafa628/ShopApp_With_Mvvm/assets/103458291/e49cf73d-04f4-44d7-a50d-cb2af8a19e09.gif width="300" height="550" />
 
 ## shopapp
 A new Flutter project.
