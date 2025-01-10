@@ -1,4 +1,5 @@
-![2 (1)](https://github.com/user-attachments/assets/d4c5d6a6-897b-4fe9-a4dd-432921d021c0.gif)
+
+<img src=https://github.com/user-attachments/assets/d4c5d6a6-897b-4fe9-a4dd-432921d021c0.gif width="250" height="500"/>
 
 # ٍShop_App
 A new Flutter project.
