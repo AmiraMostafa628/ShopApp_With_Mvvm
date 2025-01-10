@@ -1,8 +1,4 @@
-![My App](https://github.com/user-attachments/assets/9e591eb2-df2b-4855-9375-23616eb755f6.gif)
-
-## shopapp
-A new Flutter project.
-
+![2 (1)](https://github.com/user-attachments/assets/d4c5d6a6-897b-4fe9-a4dd-432921d021c0)
 ## Features
 - Full authentication with Api containing (Sign in, Sign up, logout). 
 - clean architecture with Mvvm.
