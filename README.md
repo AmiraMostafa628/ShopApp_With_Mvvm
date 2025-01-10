@@ -1,4 +1,4 @@
-<img src=https://github.com/user-attachments/assets/9e591eb2-df2b-4855-9375-23616eb755f6.gif  width="650" height="500"/>
+![My App](https://github.com/user-attachments/assets/9e591eb2-df2b-4855-9375-23616eb755f6.gif)
 
 ## shopapp
 A new Flutter project.
